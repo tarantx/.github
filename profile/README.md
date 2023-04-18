@@ -18,4 +18,4 @@ you can get benefits from the actor model. Types of applications written with ta
 
 ## Ready to get started?
 
-Find out how to start in 5 minutes with our [quick start guide](/docs/category/quick-start). You can also take a look at [our examples](/docs/category/examples), visit the [page](https://www.tarant.dev) or [our repositories](https://github.com/tarantx) and start exploring.
+Find out how to start in 5 minutes with our [quick start guide](/docs/category/quick-start). You can also take a look at [our examples](https://www.tarant.dev/docs/category/examples), visit the [page](https://www.tarant.dev) or [our repositories](https://github.com/tarantx) and start exploring.
